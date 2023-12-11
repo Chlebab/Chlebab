@@ -10,9 +10,22 @@
 - 🚀 With experience in lean manufacturing
 - 🔭 Complemented by Engineering Degree 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut)](https://github.com/Chlebab/github-readme-stats)
-[![Chlebab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chlebab)]
-
+##
+<div align="center">
+  <a href="https://github.com/Chlebab/Final_Project">
+    <img 
+      align="middle" 
+      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut)]"
+    />&nbsp;
+  </a>&nbsp;
+  <img 
+    align="middle" 
+    src="x" 
+    alt="x" 
+    width="340"
+  />
+</div>
+##
 <div align="center">
   <a href="https://github.com/Chlebab/Final_Project">
     <img 
