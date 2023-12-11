@@ -1,16 +1,16 @@
 <img src="https://media1.tenor.com/m/04GE711i7WgAAAAC/ocean-sea.gif" alt="Banner Image" width="100%" height="50%"/>
 
 
-### Welcome 👋
+## Welcome 👋
 ✨My name is Mikolaj and this is my GitHub page.✨
 
-## About Me 📫
+### About Me 📫
 - 🌱 Full stack junior developer
 - 👯 Taught at CodeClan
 - 🚀 With experience in lean manufacturing
 - 🔭 Complemented by Engineering Degree 
 <br/>
-## Most used languages ⚡
+### Most used languages ⚡
 <div align="center">
   <img 
     align="middle" 
