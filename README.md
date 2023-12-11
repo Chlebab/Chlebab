@@ -1,7 +1,8 @@
 <div style="text-align: center; width: 500px; height: 500px;"">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I5eXFoZ3RnNG9wd3pmN3EweDduczJ1bG0xMTd5Y3lrMjhuaGJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy5fjHyedk9aDGU/giphy.gif" alt="Calming GIF">
+    <img src="https://user-images.githubusercontent.com/101065163/180082138-fec08992-493f-4af0-8647-3a47bae61b89.gif" alt="Calming GIF">
 </div>
-<iframe src="https://giphy.com/embed/26DMWExfbZSiV0Btm" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-26DMWExfbZSiV0Btm">via GIPHY</a></p>
+
 ### Hi there 👋
 Junior Dev
 
