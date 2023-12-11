@@ -10,14 +10,14 @@
 - 🚀 With experience in lean manufacturing
 - 🔭 Complemented by Engineering Degree 
 <br/>
-##
+## Most used languages
 <div align="center">
   <img 
     align="middle" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
   />&nbsp;
 </div>
-##
+## Projects
 <div align="center">
   <a href="https://github.com/Chlebab/Final_Project">
     <img 
