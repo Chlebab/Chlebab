@@ -2,15 +2,17 @@
 
 
 ### Welcome 👋
-My name is Mikolaj and this is my GitHub page.
+✨My name is Mikolaj and this is my GitHub page.✨
 
-### About Me
+### About Me 📫
 - 🌱 Full stack junior developer
-- 🚀 Not 
+- 👯 Taught at CodeClan
+- 🚀 With experience in lean manufacturing
+- 🔭 Complemented by Engineering Degree 
 <br/>
 
 
-<!--
+<!--    
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
