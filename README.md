@@ -10,7 +10,7 @@
 - 🚀 With experience in lean manufacturing
 - 🔭 Complemented by Engineering Degree 
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut)](https://github.com/Chlebab/github-readme-stats)
 
 <!--    
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
