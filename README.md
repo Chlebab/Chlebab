@@ -15,7 +15,7 @@
   <a href="https://github.com/Chlebab/Final_Project">
     <img 
       align="middle" 
-      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut)]"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
     />&nbsp;
   </a>&nbsp;
   <img 
