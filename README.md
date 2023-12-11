@@ -10,7 +10,7 @@
 - 🚀 With experience in lean manufacturing
 - 🔭 Complemented by Engineering Degree 
 <br/>
-### Welcome
+## Most used languages ⚡
 <div align="center">
   <img 
     align="middle" 
