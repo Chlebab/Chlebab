@@ -4,7 +4,7 @@
 ### Welcome 👋
 ✨My name is Mikolaj and this is my GitHub page.✨
 
-### About Me 📫
+## About Me 📫
 - 🌱 Full stack junior developer
 - 👯 Taught at CodeClan
 - 🚀 With experience in lean manufacturing
