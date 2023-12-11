@@ -12,6 +12,23 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut)](https://github.com/Chlebab/github-readme-stats)
 [![Chlebab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chlebab)]
+
+<div align="center">
+  <a href="https://github.com/Chlebab/Final_Project">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Final_Project&theme=radical"
+    />&nbsp;
+  </a>&nbsp;
+  <img 
+    align="middle" 
+    src="x" 
+    alt="x" 
+    width="340"
+  />
+</div>
+
+
 <!--    
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
