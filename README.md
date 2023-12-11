@@ -32,13 +32,7 @@
       align="middle" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Final_Project&theme=radical"
     />&nbsp;
-  </a>&nbsp;
-  <img 
-    align="middle" 
-    src="x" 
-    alt="x" 
-    width="340"
-  />
+  </a>
 </div>
 
 
