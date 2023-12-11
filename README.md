@@ -1,6 +1,6 @@
 ### Hi there 👋
 Junior Dev
-<div style="text-align: center; width: 100%; height: auto;"">
+<div style="text-align: center; width: 1200px; height: 200px;"">
   <img src="https://cdn.pixabay.com/animation/2023/05/09/23/24/23-24-59-615_256.gif" alt="Calming GIF">
 </div>
 <!--
