@@ -1,4 +1,4 @@
-<div style="text-align: center; width: 500%; height: 200%;"">
+<div style="text-align: center; width: auto; height: auto;"">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I5eXFoZ3RnNG9wd3pmN3EweDduczJ1bG0xMTd5Y3lrMjhuaGJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy5fjHyedk9aDGU/giphy.gif" alt="Calming GIF">
 </div>
 ### Hi there 👋
