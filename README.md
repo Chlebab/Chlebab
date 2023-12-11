@@ -1,7 +1,5 @@
-<div style="text-align: center; width: 200%; height: 500%;"">
+<div style="text-align: center; width: 500px; height: 500px;"">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I5eXFoZ3RnNG9wd3pmN3EweDduczJ1bG0xMTd5Y3lrMjhuaGJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy5fjHyedk9aDGU/giphy.gif" alt="Calming GIF">
-  <iframe width="500" height="300" src="https://media.giphy.com/media/l3q2ZQ8285eZ0aK2U/giphy.gif" frameborder="0" allowfullscreen></iframe>
-
 </div>
 
 ### Hi there 👋
