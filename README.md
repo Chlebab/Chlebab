@@ -15,7 +15,7 @@
 <div align="center">
   <img 
     align="middle" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut&theme=radical"
   />&nbsp;
 </div>
 
