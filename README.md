@@ -17,13 +17,7 @@
       align="middle" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
     />&nbsp;
-  </a>&nbsp;
-  <img 
-    align="middle" 
-    src="x" 
-    alt="x" 
-    width="340"
-  />
+  </a>
 </div>
 ##
 <div align="center">
