@@ -1,8 +1,14 @@
 <img src="https://media1.tenor.com/m/04GE711i7WgAAAAC/ocean-sea.gif" alt="Banner Image" width="100%" height="50%"/>
 
 
-### Hi there 👋
-Junior Dev
+### Welcome 👋
+My name is Mikolaj and this is my GitHub page.
+
+### About Me
+- 🌱 Full stack junior developer
+- 🚀 Not 
+<br/>
+
 
 <!--
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
