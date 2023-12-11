@@ -1,7 +1,7 @@
 ### Hi there 👋
 Junior Dev
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/l3q2ZQ8285eZ0aK2U/giphy.gif" alt="Calming GIF">
+  <img src="https://cdn.pixabay.com/animation/2023/05/09/23/24/23-24-59-615_256.gif" alt="Calming GIF">
 </div>
 <!--
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
