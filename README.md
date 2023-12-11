@@ -12,12 +12,10 @@
 <br/>
 ##
 <div align="center">
-  <a href="https://github.com/Chlebab/Final_Project">
-    <img 
-      align="middle" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
-    />&nbsp;
-  </a>
+  <img 
+    align="middle" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlebab&layout=donut"
+  />&nbsp;
 </div>
 ##
 <div align="center">
