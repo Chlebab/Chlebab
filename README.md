@@ -11,7 +11,7 @@
 - 🔭 Complemented by Engineering Degree 
 <br/>
 
-### Most used languages ⚡
+## Most used languages ⚡
 <div align="center">
   <img 
     align="middle" 
@@ -19,8 +19,7 @@
   />&nbsp;
 </div>
 
-## Welcome 
-
+## Projects 
 <div align="center">
   <a href="https://github.com/Chlebab/Final_Project">
     <img 
