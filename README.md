@@ -5,10 +5,10 @@
 ✨My name is Mikolaj and this is my GitHub page.✨
 
 ## About Me 📫
-- 🌱 Full stack junior developer
-- 👯 Taught at CodeClan
-- 🚀 With experience in lean manufacturing
-- 🔭 Complemented by Engineering Degree 
+- 🌱 Full-stack junior developer
+- 👯 CodeClan graduate
+- 🚀 Experience in lean manufacturing
+- 🔭 Complemented by an engineering degree
 <br/>
 
 ## Most used languages ⚡
