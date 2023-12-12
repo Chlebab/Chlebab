@@ -24,15 +24,6 @@
   <a href="https://github.com/Chlebab/Final_Project">
     <img 
       align="middle" 
-      src="https://imgflip.com/gif/893gxf"
-    />&nbsp;
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Chlebab/Final_Project">
-    <img 
-      align="middle" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Final_Project&theme=radical"
     />
   </a>&nbsp;
