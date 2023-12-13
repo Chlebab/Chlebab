@@ -54,8 +54,8 @@
 </div>
 
 <div align="center">
-  <details>
-    <summary>Click here to show images</summary>
+  <details style="display: inline-block; text-align: left;">
+    <summary>Click me</summary>
     <img 
       align="middle" 
       src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
@@ -64,13 +64,14 @@
     />
   </details>
 
-  <a href="https://github.com/Chlebab/Weather_project">
+  <a href="https://github.com/Chlebab/Weather_project" style="display: inline-block;">
     <img 
       align="middle" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical"
     />
   </a>
 </div>
+
 
 
 <!--    
