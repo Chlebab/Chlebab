@@ -36,12 +36,16 @@
 </div>
 
 <div align="center">
-    <img 
+  <details>
+  <summary>Click me</summary>
+  <img 
     align="middle" 
     src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
     alt="Game image" 
     width="340"
   />
+</details> 
+
   </a>&nbsp;
   <a href="https://github.com/Chlebab/Weather_project">
     <img 
