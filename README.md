@@ -61,15 +61,14 @@
       src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
       alt="Game image" 
       width="340"
-    />
-  </details>
-
+    />&nbsp;
+  </details>  
   <a href="https://github.com/Chlebab/Weather_project" style="display: inline-block;">
     <img 
       align="middle" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical"
     />
-  </a>
+  </a>&nbsp;
 </div>
 
 
