@@ -19,7 +19,20 @@
   />&nbsp;
 </div>
 
-## Projects 
+## Skills 🎓
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=js,py,java,godot"/>
+  
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,flask,postgres"/>
+  
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,vite,css,html,bootstrap"/>
+  
+  <h4>Others</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
+  
+## Projects 💻
 
 ### Godot Game
 <div align="center">
