@@ -35,7 +35,7 @@
   />
 </div>
 
-<div align="center">
+<div align="right">
   <details>
   <summary>Click me</summary>
   <img 
