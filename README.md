@@ -76,18 +76,37 @@
   </a>&nbsp;
   <img 
     align="middle" 
-    src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
+    src="https://i.ibb.co/ccnbCSx/main-screen.png" 
+    alt="Game image" 
+    width="340"
+  />
+  <details align="middle" >
+    <summary>Click for more images</summary>
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/2ZyZMzh/5-days-detailed-weather.png" 
     alt="Game image" 
     width="340"
   />&nbsp;
-  <details align="middle" >
-    <summary>Click me</summary>
   <img 
     align="middle" 
-    src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
+    src="https://i.ibb.co/TkYBc12/london-10-days.png" 
     alt="Game image" 
     width="340"
-  />&nbsp;  </details>
+  />&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/jJz5bGv/snowy-austria.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/LC6nvwJ/api-call.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
+  </details>
 </div>
 
 ## Test
