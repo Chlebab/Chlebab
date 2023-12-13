@@ -44,9 +44,8 @@
     alt="Game image" 
     width="340"
   />
-</details> 
-
   </a>&nbsp;
+</details> 
   <a href="https://github.com/Chlebab/Weather_project">
     <img 
       align="middle" 
