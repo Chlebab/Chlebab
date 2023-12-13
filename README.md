@@ -37,9 +37,9 @@
 
 <div align="center">
   <details>
-  <summary>Click me</summary>
-  <a>
-  </a>&nbsp;
+  <summary align="middle">Click me</summary>
+  <>
+  </>
 </details> 
   <a href="https://github.com/Chlebab/Weather_project">
     <img 
