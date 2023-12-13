@@ -35,7 +35,7 @@
   />
 </div>
 
-<div align="right">
+<div align="center">
   <details>
   <summary>Click me</summary>
   <img 
@@ -52,6 +52,26 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical"
     />
 </div>
+
+<div align="center">
+  <details>
+    <summary>Click here to show images</summary>
+    <img 
+      align="middle" 
+      src="https://i.ibb.co/TB6wGVX/lvl-4-screen.png" 
+      alt="Game image" 
+      width="340"
+    />
+  </details>
+
+  <a href="https://github.com/Chlebab/Weather_project">
+    <img 
+      align="middle" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical"
+    />
+  </a>
+</div>
+
 
 <!--    
 **Chlebab/Chlebab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
