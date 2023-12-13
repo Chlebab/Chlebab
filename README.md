@@ -109,21 +109,50 @@
   </details>
 </div>
 
-## Test
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Chlebab/Weather_project">
+##
+
+### Spending Tracker
+<div align="center">
+  <a href="https://github.com/Chlebab/Spending_tracker">
     <img 
       align="middle" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical" alt="Project image" />
-  </a>
-<div align="middle">
-  <details>
-    <summary>Click me</summary>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Weather_project&theme=radical" alt="Project Image" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Chlebab&repo=Spending_tracker&theme=radical"
+    />
+  </a>&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/nb3nQxL/big-money-spender.png" 
+    alt="Game image" 
+    width="340"
+  />
+  <details align="middle" >
+    <summary>Click for more images</summary>
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/02rJLHv/budget.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/R0d0zQx/merchants.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/cwKgJHY/transactions.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
+  <img 
+    align="middle" 
+    src="https://i.ibb.co/3ftP6LH/user-spendings.png" 
+    alt="Game image" 
+    width="340"
+  />&nbsp;
   </details>
 </div>
-</div>
-
 
 
 
